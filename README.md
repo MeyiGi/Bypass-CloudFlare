@@ -6,7 +6,7 @@
   git clone https://github.com/MeyiGi/Bypass-CloudFlare.git
   python -m venv venv
   source venv/scripts/activate
-  pip install > requirements.txt
+  pip install -r requirements.txt
 
 ```
 
